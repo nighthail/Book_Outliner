@@ -1,0 +1,23 @@
+{
+    "scenes": [
+      {
+        "id":"bob1",
+        "title": "Scene number One",
+        "info": "Linfgrden the forest",
+        "chara": ["#Linda", "#Bob"]
+      },
+      {
+        "id":"bob2",
+        "title": "Scengrmber Two",
+        "info": "Linda htdrestaurant",
+        "chara": ["#Linda", "#Bob"]
+      },
+      {
+        "id":"bob3",
+        "title": "Scengrer Three",
+        "info": "Whilgred, Bob gets stabbed by Linda and gives up",
+        "chara": ["#Linda", "#Bob", "#Philemina"]
+      }
+]
+}
+  

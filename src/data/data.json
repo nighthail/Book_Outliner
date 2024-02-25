@@ -1,0 +1,23 @@
+{
+    "scenes": [
+      {
+        "id":"bob1",
+        "title": "Scene number One",
+        "info": "Linda and Bob are fighting in the forest",
+        "chara": ["#Linda", "#Bob"]
+      },
+      {
+        "id":"bob2",
+        "title": "Scene number Two",
+        "info": "Linda brought a sword to the restaurant",
+        "chara": ["#Linda", "#Bob"]
+      },
+      {
+        "id":"bob3",
+        "title": "Scene number Three",
+        "info": "While interviewed, Bob gets stabbed by Linda and gives up",
+        "chara": ["#Linda", "#Bob", "#Philemina"]
+      }
+]
+}
+  
